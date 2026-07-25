@@ -11,7 +11,7 @@
 Desenvolvedora focada em criar soluções acessíveis, inteligentes e com impacto real. Apaixonada pela união entre **Visão Computacional**, **Inteligência Artificial** e **Desenvolvimento Web**.
 
 * 🚀 Criadora do **Guardian A.N.Y.** (*Autista No YouTube*), uma aplicação desenvolvida para ajudar pessoas no espectro autista a identificarem níveis de estimulação sensorial em vídeos.
-* 💻 Stack principal: **Python (FastAPI, OpenCV, Scikit-Learn)** no Backend e **JavaScript / Tailwind CSS** no Frontend.
+* 💻 Stack principal: **Python (FastAPI, OpenCV, Scikit-Learn)** no Backend e **JavaScript / TypeScript / Tailwind CSS** no Frontend.
 * 🛠️ Experiência com **Docker**, deploy containerizado no **Render** e plataformas como **Vercel**.
 * 🎯 Sempre buscando aperfeiçoar técnicas de Machine Learning e arquitetura de software modular.
 
@@ -33,13 +33,7 @@ Desenvolvedora focada em criar soluções acessíveis, inteligentes e com impact
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
-**Linguagens & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/### 🛠️ Linguagens & Tecnologias
+### 🛠️ Linguagens & Tecnologias
 
 **Linguagens de Programação**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,13 +60,14 @@ Desenvolvedora focada em criar soluções acessíveis, inteligentes e com impact
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leticiabeatriz15&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabeatriz15&layout=compact&theme=synthwave&hide_border=true&hide=html" alt="Linguagens Mais Usadas" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=leticiabeatriz15&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leticiabeatriz15&layout=compact&theme=synthwave&hide_border=true&hide=html" alt="Linguagens Mais Usadas" height="170" />
 </div>
 
 ---
