@@ -73,5 +73,5 @@ Desenvolvedora focada em criar soluções acessíveis, inteligentes e com impact
 ---
 
 <div align="center">
-  <i>"Transformando dados e código em acessibilidade."</i> ✨
+  <i>""Tudo o que fizerem, façam de todo o coração, como para o Senhor." — Colossenses 3:23"</i> ✨
 </div>
